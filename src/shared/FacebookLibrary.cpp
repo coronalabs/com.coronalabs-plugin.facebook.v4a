@@ -137,6 +137,7 @@ FacebookLibrary::Open( lua_State *L )
 		{ "setFBConnectListener", setFBConnectListener },
 		{ "showDialog", showDialog },
 		{ "getSDKVersion", getSDKVersion },
+		{ "logEvent", logEvent },
 
 		{ NULL, NULL }
 	};
