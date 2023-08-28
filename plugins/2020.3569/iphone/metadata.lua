@@ -4,8 +4,8 @@ local metadata =
 	{
 		format = 'staticLibrary',
 		staticLibs = { 'plugin_facebook', },
-		frameworks = { 'Accounts', 'FBSDKCoreKit',  'FBSDKLoginKit', 'FBSDKShareKit', 'FBSDKCoreKit_Basics', "FBAEMKit", "FBSDKGamingServicesKit", "Accelerate"},
-		frameworksOptional = {},
+		frameworks = { 'SafariServices', 'Accounts', 'FBSDKCoreKit',  'FBSDKLoginKit', 'FBSDKShareKit', 'FBSDKCoreKit_Basics', "FBAEMKit", "FBSDKGamingServicesKit", "Accelerate"},
+		frameworksOptional = { 'AuthenticationServices' },
 		delegates = { 'CoronaFacebookDelegate' },
 		usesSwift = true,
 	},

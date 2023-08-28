@@ -9,7 +9,10 @@
 #import "CoronaFacebookDelegate.h"
 #import "CoronaRuntime.h"
 #import "CoronaDelegate.h"
+#import <AuthenticationServices/AuthenticationServices.h>
+#import <SafariServices/SafariServices.h>
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
+#import <FBSDKCoreKit/FBSDKCoreKit-Swift.h>
 
 
 @implementation CoronaFacebookDelegate

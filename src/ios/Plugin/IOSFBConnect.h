@@ -20,6 +20,7 @@
 #import <AddressBookUI/AddressBookUI.h>
 #import <FBSDKCoreKit/FBSDKCoreKit.h>
 #import <FBSDKLoginKit/FBSDKLoginKit.h>
+#import <FBSDKLoginKit/FBSDKLoginKit-Swift.h>
 #import <FBSDKShareKit/FBSDKShareKit.h>
 #import <FBSDKShareKit/FBSDKShareKit-Swift.h>
 #import <FBSDKGamingServicesKit/FBSDKGamingServicesKit-Swift.h>
