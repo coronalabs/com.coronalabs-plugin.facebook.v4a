@@ -3,16 +3,16 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 52;
+	objectVersion = 60;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DB04A957282C597000AE2DB7 /* FBAEMKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB04A951282C596F00AE2DB7 /* FBAEMKit.xcframework */; };
-		DB04A958282C597000AE2DB7 /* FBSDKCoreKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB04A952282C596F00AE2DB7 /* FBSDKCoreKit.xcframework */; };
-		DB04A959282C597000AE2DB7 /* FBSDKLoginKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB04A953282C596F00AE2DB7 /* FBSDKLoginKit.xcframework */; };
-		DB04A95B282C597000AE2DB7 /* FBSDKShareKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB04A955282C597000AE2DB7 /* FBSDKShareKit.xcframework */; };
-		DB04A95C282C597000AE2DB7 /* FBSDKCoreKit_Basics.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB04A956282C597000AE2DB7 /* FBSDKCoreKit_Basics.xcframework */; };
-		DBB6F7F8283D7E81005DB1FA /* FBSDKGamingServicesKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = DBB6F7F7283D7E81005DB1FA /* FBSDKGamingServicesKit.xcframework */; };
+		DB8A23BF2D0A9D38005B1A05 /* FBSDKCoreKit_Basics.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB8A23BB2D0A9D38005B1A05 /* FBSDKCoreKit_Basics.xcframework */; };
+		DB8A23C02D0A9D38005B1A05 /* FBSDKCoreKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB8A23BA2D0A9D38005B1A05 /* FBSDKCoreKit.xcframework */; };
+		DB8A23C12D0A9D38005B1A05 /* FBSDKLoginKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB8A23BD2D0A9D38005B1A05 /* FBSDKLoginKit.xcframework */; };
+		DB8A23C22D0A9D38005B1A05 /* FBSDKGamingServicesKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB8A23BC2D0A9D38005B1A05 /* FBSDKGamingServicesKit.xcframework */; };
+		DB8A23C32D0A9D38005B1A05 /* FBAEMKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB8A23B92D0A9D38005B1A05 /* FBAEMKit.xcframework */; };
+		DB8A23C42D0A9D38005B1A05 /* FBSDKShareKit.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = DB8A23BE2D0A9D38005B1A05 /* FBSDKShareKit.xcframework */; };
 		F56B879A2370D5770091376E /* FacebookLibrary.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1C32EB1E203B222E00E81325 /* FacebookLibrary.cpp */; };
 		F56B879B2370D5770091376E /* FBConnect.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1C32EB20203B222E00E81325 /* FBConnect.cpp */; };
 		F56B879C2370D5770091376E /* FBConnectEvent.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1C32EB22203B222E00E81325 /* FBConnectEvent.cpp */; };
@@ -44,12 +44,12 @@
 		1C32EB22203B222E00E81325 /* FBConnectEvent.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = FBConnectEvent.cpp; sourceTree = "<group>"; };
 		1C32EB23203B222E00E81325 /* FBConnectEvent.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FBConnectEvent.h; sourceTree = "<group>"; };
 		A4E253B6166D6FB300DCDC2C /* libplugin_facebook.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libplugin_facebook.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		DB04A951282C596F00AE2DB7 /* FBAEMKit.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = FBAEMKit.xcframework; path = EmbeddedFrameworks/FBAEMKit.xcframework; sourceTree = "<group>"; };
-		DB04A952282C596F00AE2DB7 /* FBSDKCoreKit.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = FBSDKCoreKit.xcframework; path = EmbeddedFrameworks/FBSDKCoreKit.xcframework; sourceTree = "<group>"; };
-		DB04A953282C596F00AE2DB7 /* FBSDKLoginKit.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = FBSDKLoginKit.xcframework; path = EmbeddedFrameworks/FBSDKLoginKit.xcframework; sourceTree = "<group>"; };
-		DB04A955282C597000AE2DB7 /* FBSDKShareKit.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = FBSDKShareKit.xcframework; path = EmbeddedFrameworks/FBSDKShareKit.xcframework; sourceTree = "<group>"; };
-		DB04A956282C597000AE2DB7 /* FBSDKCoreKit_Basics.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = FBSDKCoreKit_Basics.xcframework; path = EmbeddedFrameworks/FBSDKCoreKit_Basics.xcframework; sourceTree = "<group>"; };
-		DBB6F7F7283D7E81005DB1FA /* FBSDKGamingServicesKit.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = FBSDKGamingServicesKit.xcframework; path = EmbeddedFrameworks/FBSDKGamingServicesKit.xcframework; sourceTree = "<group>"; };
+		DB8A23B92D0A9D38005B1A05 /* FBAEMKit.xcframework */ = {isa = PBXFileReference; expectedSignature = "AppleDeveloperProgram:V9WTTPBFK9:Meta Platforms, Inc."; lastKnownFileType = wrapper.xcframework; name = FBAEMKit.xcframework; path = EmbeddedFrameworks/FBAEMKit.xcframework; sourceTree = "<group>"; };
+		DB8A23BA2D0A9D38005B1A05 /* FBSDKCoreKit.xcframework */ = {isa = PBXFileReference; expectedSignature = "AppleDeveloperProgram:V9WTTPBFK9:Meta Platforms, Inc."; lastKnownFileType = wrapper.xcframework; name = FBSDKCoreKit.xcframework; path = EmbeddedFrameworks/FBSDKCoreKit.xcframework; sourceTree = "<group>"; };
+		DB8A23BB2D0A9D38005B1A05 /* FBSDKCoreKit_Basics.xcframework */ = {isa = PBXFileReference; expectedSignature = "AppleDeveloperProgram:V9WTTPBFK9:Meta Platforms, Inc."; lastKnownFileType = wrapper.xcframework; name = FBSDKCoreKit_Basics.xcframework; path = EmbeddedFrameworks/FBSDKCoreKit_Basics.xcframework; sourceTree = "<group>"; };
+		DB8A23BC2D0A9D38005B1A05 /* FBSDKGamingServicesKit.xcframework */ = {isa = PBXFileReference; expectedSignature = "AppleDeveloperProgram:V9WTTPBFK9:Meta Platforms, Inc."; lastKnownFileType = wrapper.xcframework; name = FBSDKGamingServicesKit.xcframework; path = EmbeddedFrameworks/FBSDKGamingServicesKit.xcframework; sourceTree = "<group>"; };
+		DB8A23BD2D0A9D38005B1A05 /* FBSDKLoginKit.xcframework */ = {isa = PBXFileReference; expectedSignature = "AppleDeveloperProgram:V9WTTPBFK9:Meta Platforms, Inc."; lastKnownFileType = wrapper.xcframework; name = FBSDKLoginKit.xcframework; path = EmbeddedFrameworks/FBSDKLoginKit.xcframework; sourceTree = "<group>"; };
+		DB8A23BE2D0A9D38005B1A05 /* FBSDKShareKit.xcframework */ = {isa = PBXFileReference; expectedSignature = "AppleDeveloperProgram:V9WTTPBFK9:Meta Platforms, Inc."; lastKnownFileType = wrapper.xcframework; name = FBSDKShareKit.xcframework; path = EmbeddedFrameworks/FBSDKShareKit.xcframework; sourceTree = "<group>"; };
 		F56B87882370AEF40091376E /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Accounts.framework; sourceTree = DEVELOPER_DIR; };
 		F572F81A1EE0705B001BC814 /* CoronaNative.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = CoronaNative.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -59,12 +59,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DB04A958282C597000AE2DB7 /* FBSDKCoreKit.xcframework in Frameworks */,
-				DB04A95C282C597000AE2DB7 /* FBSDKCoreKit_Basics.xcframework in Frameworks */,
-				DB04A959282C597000AE2DB7 /* FBSDKLoginKit.xcframework in Frameworks */,
-				DB04A95B282C597000AE2DB7 /* FBSDKShareKit.xcframework in Frameworks */,
-				DBB6F7F8283D7E81005DB1FA /* FBSDKGamingServicesKit.xcframework in Frameworks */,
-				DB04A957282C597000AE2DB7 /* FBAEMKit.xcframework in Frameworks */,
+				DB8A23BF2D0A9D38005B1A05 /* FBSDKCoreKit_Basics.xcframework in Frameworks */,
+				DB8A23C02D0A9D38005B1A05 /* FBSDKCoreKit.xcframework in Frameworks */,
+				DB8A23C12D0A9D38005B1A05 /* FBSDKLoginKit.xcframework in Frameworks */,
+				DB8A23C22D0A9D38005B1A05 /* FBSDKGamingServicesKit.xcframework in Frameworks */,
+				DB8A23C32D0A9D38005B1A05 /* FBAEMKit.xcframework in Frameworks */,
+				DB8A23C42D0A9D38005B1A05 /* FBSDKShareKit.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -107,12 +107,12 @@
 		A484110E15114F700074BD57 = {
 			isa = PBXGroup;
 			children = (
-				DBB6F7F7283D7E81005DB1FA /* FBSDKGamingServicesKit.xcframework */,
-				DB04A951282C596F00AE2DB7 /* FBAEMKit.xcframework */,
-				DB04A956282C597000AE2DB7 /* FBSDKCoreKit_Basics.xcframework */,
-				DB04A952282C596F00AE2DB7 /* FBSDKCoreKit.xcframework */,
-				DB04A953282C596F00AE2DB7 /* FBSDKLoginKit.xcframework */,
-				DB04A955282C597000AE2DB7 /* FBSDKShareKit.xcframework */,
+				DB8A23B92D0A9D38005B1A05 /* FBAEMKit.xcframework */,
+				DB8A23BA2D0A9D38005B1A05 /* FBSDKCoreKit.xcframework */,
+				DB8A23BB2D0A9D38005B1A05 /* FBSDKCoreKit_Basics.xcframework */,
+				DB8A23BC2D0A9D38005B1A05 /* FBSDKGamingServicesKit.xcframework */,
+				DB8A23BD2D0A9D38005B1A05 /* FBSDKLoginKit.xcframework */,
+				DB8A23BE2D0A9D38005B1A05 /* FBSDKShareKit.xcframework */,
 				1C32EB1D203B222E00E81325 /* shared */,
 				A447B609165D72A6009EA762 /* Source */,
 				F54A40C01EE083A300AF417D /* CoronaNative */,
@@ -331,6 +331,10 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				DSTROOT = /tmp/plugin_library.dst;
 				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/EmbeddedFrameworks",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = NO;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					BUCK,
@@ -352,6 +356,10 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				DSTROOT = /tmp/plugin_library.dst;
 				ENABLE_BITCODE = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/EmbeddedFrameworks",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = NO;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					BUCK,
