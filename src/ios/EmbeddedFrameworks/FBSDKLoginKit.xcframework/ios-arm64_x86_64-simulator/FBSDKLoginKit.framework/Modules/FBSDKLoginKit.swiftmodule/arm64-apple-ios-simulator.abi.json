@@ -16450,9 +16450,17 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "UIViewController",
-                "printedName": "UIKit.UIViewController",
-                "usr": "c:objc(cs)UIViewController"
+                "name": "Optional",
+                "printedName": "UIKit.UIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIViewController",
+                    "printedName": "UIKit.UIViewController",
+                    "usr": "c:objc(cs)UIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
               },
               {
                 "kind": "TypeFunc",
@@ -16504,7 +16512,7 @@
             ],
             "declKind": "Func",
             "usr": "c:@M@FBSDKLoginKit@objc(cs)FBSDKLoginManager(im)reauthorizeDataAccess:handler:",
-            "mangledName": "$s13FBSDKLoginKit12LoginManagerC21reauthorizeDataAccess4from7handlerySo16UIViewControllerC_yAA0cdC6ResultCSg_s5Error_pSgtctF",
+            "mangledName": "$s13FBSDKLoginKit12LoginManagerC21reauthorizeDataAccess4from7handlerySo16UIViewControllerCSg_yAA0cdC6ResultCSg_s5Error_pSgtctF",
             "moduleName": "FBSDKLoginKit",
             "objc_name": "reauthorizeDataAccess:handler:",
             "declAttributes": [

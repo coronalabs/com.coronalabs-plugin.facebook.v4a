@@ -54,7 +54,7 @@
             
         </activity>
 
-
+                    	<meta-data android:name="com.facebook.sdk.ClientToken" android:value="4a18d06f315e892d14aa857873bde0da"/>
             
 
     </application>

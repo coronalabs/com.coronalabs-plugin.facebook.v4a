@@ -30135,16 +30135,16 @@
     {
       "filePath": "\/data\/sandcastle\/boxes\/trunk-git-facebook-ios-sdk\/FBSDKShareKit\/FBSDKShareKit\/Content\/SharePhotoContent.swift",
       "kind": "IntegerLiteral",
-      "offset": 3474,
+      "offset": 3501,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/data\/sandcastle\/boxes\/trunk-git-facebook-ios-sdk\/FBSDKShareKit\/FBSDKShareKit\/Content\/SharePhotoContent.swift",
       "kind": "IntegerLiteral",
-      "offset": 3480,
-      "length": 1,
-      "value": "6"
+      "offset": 3507,
+      "length": 2,
+      "value": "10"
     },
     {
       "filePath": "\/data\/sandcastle\/boxes\/trunk-git-facebook-ios-sdk\/FBSDKShareKit\/FBSDKShareKit\/UserInterface\/SocialComposeViewControllerFactory.swift",

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		/Phke95B5PiKmNU2yXL8r0HCp/Q=
+		e7MqrXgFKVo5L1GdLOdUWvBVRww=
 		</data>
 		<key>Resources/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -118,22 +118,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			07b3Q5GK1Tcy4tddROpfhlXqIZY=
+			BOUOaSiuKli6Qe/v5ySB3h+M5X4=
 			</data>
 			<key>hash2</key>
 			<data>
-			IbaSicmcV89DKoSmNOXsRxZa9tNM9O/AnRwQMF1wQrM=
+			gkInDcjiBNASc1T6fLvTisSC622V3ONdX5cFYRNhq4Q=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAppEventParameterName.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jMPwz6fdms/XUiUDkGZXO8LsEPs=
+			PUlvfFayxBDoZ9T09/HpoVZ7Hgc=
 			</data>
 			<key>hash2</key>
 			<data>
-			P5BcIc7FNHua2MKnE3mmflQlvvdqk25zXugjGZGRhJk=
+			dourp/NLYssFkQ5Dg6AxyxLObwl5JhALDaFz6lFf9Lc=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAppEventParameterProduct.h</key>
@@ -184,22 +184,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SL8q6r3LX7NML3rTd5Ww+Q1D63k=
+			lg573O7sH41xBg8lJrqEit3K/XQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			JHjQehs8qf1edGakmK1Z/sUwAiVGmG1fGWJ0Vj/vtsA=
+			UXJezVQ0cuGeeCKQaxUnK81y4yXJT55f4K9dAPNv5/A=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAppEventsConfiguration.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CsclPdVYbZT/d3vyIc3T73E3GWM=
+			HzthBYIOOFB3e2msa04M0rtBsRo=
 			</data>
 			<key>hash2</key>
 			<data>
-			12Q0lH0ENEJ3QHnAx0iNZI2iSHDqHghwhm4R6NJU5OA=
+			CPd+ImdtELN8bwE7ctjAasJyW7VT89Q5RQaUxTFXz6M=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAppEventsConfigurationManager.h</key>
@@ -217,11 +217,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i0NY+J4ygH/XbFXvvUo0/vgSW1k=
+			v6/aYc8HvZlvKvREulESWKamY/g=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ytel7wjTc1/St9RwbbKygzhhgJo6bOhIkanOGTl8BWI=
+			HNsLJH7DmlMk6E5VETGgJDTdrBxFh1tmIqN2HupuauQ=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAppEventsConfigurationProviding.h</key>
@@ -239,11 +239,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			E5Q/eFhLIfufgv+or6MWeLToMCk=
+			mHGiLeCpVuFdv3XqdFxv9vt7374=
 			</data>
 			<key>hash2</key>
 			<data>
-			bOwBbuJmpfGOLWp6AaU0x8Y6AeFqpIXjyUxQhtc+ck4=
+			CYre/9YuQpKmC/OI/41C1Pu8lysIfIKLoct7rQEcEdc=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAppEventsDeviceInfo.h</key>
@@ -316,11 +316,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GeLYTkB6KF0pJhMf3EGqH/Sr9QM=
+			WuHkw89fZW/JsqsG7+MqdROIuqU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ddxD44Pj0UBj4Pw1GV61mCMahvKYawuiFhg2LfvRUCI=
+			R6QD42bulvhwFoDu6RdyZBgBVdXMRl4ysZHuVUj1g9I=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAppEventsStateManager.h</key>
@@ -541,6 +541,17 @@
 			<key>hash2</key>
 			<data>
 			ummPfWNsfoi+QpV6yx2bMpP5IvBHvQkfcON2myGbUy4=
+			</data>
+		</dict>
+		<key>Headers/FBSDKAppOperationalDataType.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Yxnb0SsotnkBXyJBdPIv4DE+uuE=
+			</data>
+			<key>hash2</key>
+			<data>
+			Kyg3KDbG6mD8rK/gtHc1u8If+GNKh/8Uxmbfib1bpXg=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAppStoreReceiptProviding.h</key>
@@ -833,33 +844,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PTLgKp2/1lXQArIa8bwNYnHVEXg=
+			6Q0IXgo7gt89R9ybn7xJCG359Lo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ddfiRjQa/erY4Rl829k8uUopGwVv5wy5qbh5Xova6Wo=
+			g7XEQkenFT0vcIVYTUXN6AZV0llkCsNWEqTD4XZWjys=
 			</data>
 		</dict>
 		<key>Headers/FBSDKCoreKit.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0ty0vX4IKhlihyTpTLs6Q3n/MFc=
+			9NSBO9571MvtFn98up/7ePg4lwo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ir1sUmZzZUDf1ffBOF5CyubXSfO7EyefqvswHsuOt2s=
+			o2TE4Ds12wtlfLBvKjQ8VsMS5tnFEdVj2vJfsqI/21I=
 			</data>
 		</dict>
 		<key>Headers/FBSDKCoreKitVersions.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			L02ysZvdpM94r5VfMIp7yfMjGRE=
+			/eqaMAzP93B16wXvakv2GDTKX0k=
 			</data>
 			<key>hash2</key>
 			<data>
-			id2myak5sypPJg6mQshCoAjaRHOwnIY/MUllxfgc5iY=
+			Vfex5H/RRx7zB2DpAjP6NiIB1F+xRX28EDuU7fmVphY=
 			</data>
 		</dict>
 		<key>Headers/FBSDKCrashObserver.h</key>
@@ -1086,11 +1097,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L6nJnJNu/myQTc/c5cLNo6NnGoU=
+			DUSe3ilZQO8BqMsmrVYsaoF7LGA=
 			</data>
 			<key>hash2</key>
 			<data>
-			FYa1ulMDCMfXCVRDa7WlspX+5kyUfFcu8Yf6tqIMQ/4=
+			0VHOLZCsy4MIa2IyIiw2m0r7HlIaK1PEG6/P55bLZ8o=
 			</data>
 		</dict>
 		<key>Headers/FBSDKEventProcessing.h</key>
@@ -1119,11 +1130,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3mVuPVTVI2PUOyuPW+weRnxXM/g=
+			Oh4B8Z0ZOzOtzlb70Z4TPxT1NQg=
 			</data>
 			<key>hash2</key>
 			<data>
-			MP047JibiXQMLfbft3RoTWzZ9bHWVhgRE1+hj7FKVP8=
+			V1hpI7TAZqwqEOEABosdtY1n2cBJTV/NzjeKNw9UDUc=
 			</data>
 		</dict>
 		<key>Headers/FBSDKFeatureChecking.h</key>
@@ -1328,11 +1339,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ig2aSNTYKohOL9chgKgOCRL4R+o=
+			4ZYoDzErnijlAw/YdD1e2qQ3eDs=
 			</data>
 			<key>hash2</key>
 			<data>
-			YBkwsTVbEaC8DwjEMZdgV4ipEEMPr0P+ZButq3RZ7zQ=
+			Twh3qoAgt3ReSFrZuMn8tfYVVZ+eHo/Z01B//qRL/aM=
 			</data>
 		</dict>
 		<key>Headers/FBSDKGraphRequestPiggybackManaging.h</key>
@@ -1366,6 +1377,50 @@
 			<key>hash2</key>
 			<data>
 			jg27Rw8BPOqfHG/lqSFvmFumU0quxxvP7wdja0rMIq8=
+			</data>
+		</dict>
+		<key>Headers/FBSDKIAPDedupeProcessing.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jFfQ2uToisxlUwu5HAehBwtT5yc=
+			</data>
+			<key>hash2</key>
+			<data>
+			mzR9LdGDTqtc3DYV+JOsBkVoOuodrkRWOO3EnpWU9C0=
+			</data>
+		</dict>
+		<key>Headers/FBSDKIAPFailedTransactionLogging.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3naly4poGndtl04IKJLRhIn0y58=
+			</data>
+			<key>hash2</key>
+			<data>
+			YxYLbyBk6Uw+vYZwpHHGp5GKRCS9QE/hRs6s5QPT0uw=
+			</data>
+		</dict>
+		<key>Headers/FBSDKIAPFailedTransactionLoggingCreating.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8f1KPldp/xKn7SdJ+extn1OcPWY=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZzaGG8LO/3EvuN9LDMk/455U5A74GiZMmXHsNKy4Zlk=
+			</data>
+		</dict>
+		<key>Headers/FBSDKIAPTransactionCaching.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EUOfrTb9ijRfv++ZOI1VjUF46+o=
+			</data>
+			<key>hash2</key>
+			<data>
+			bjiGwxnSAUlt+NVqp+emo6xGvyxyQzPz5qaW1530I/E=
 			</data>
 		</dict>
 		<key>Headers/FBSDKImpressionLoggerFactory.h</key>
@@ -2028,6 +2083,17 @@
 			TTwDb4bRpxFALwHRV7rPZ9zwNFPGZhy34If3avetGjM=
 			</data>
 		</dict>
+		<key>Headers/FBSDKTransactionObserving.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lZIW9x0Pm8LlHaUourw8qilnS7I=
+			</data>
+			<key>hash2</key>
+			<data>
+			NOPfkdHDnW6uD+jIMqNB/e5UkbR4E7d1qzrjahnOHdo=
+			</data>
+		</dict>
 		<key>Headers/FBSDKTransformer.h</key>
 		<dict>
 			<key>hash</key>
@@ -2373,88 +2439,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VZgtEOZpsZxDjJo8A8GTxLpFsQo=
+			mnFamF7Gc38H2o21RWTTfDURTgE=
 			</data>
 			<key>hash2</key>
 			<data>
-			fFg4sW3VK1HHYwB0lCBu2JHm/bIGWW+vulNfsRMLiFA=
+			LLjPiY/OCkprLw8wapFjBaET7cMNKbOtVipQPYHElfg=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CLlzJVPP60q+jay45qZPaI21P78=
+			FeQzanpLn8r0q90XPcUQUGrbvpM=
 			</data>
 			<key>hash2</key>
 			<data>
-			/CCA16TifVoMMd2Pz9Z4f1yPeWea1qK7bOIEe9QBARk=
+			9vqiFoTW/zYeS6mZ80D6PlnQpuMgrIjcU/+646FQOZc=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0m10LlYPqfojU/ljSxfNfzx/Ung=
+			Mj7ipDJanXwEXSMXDQw3r60NqAU=
 			</data>
 			<key>hash2</key>
 			<data>
-			/IU1051trX++OrQ1AWgXILKP2Zsskael6uCySeDdNnQ=
+			DQLbZaJFnhnaV5DNWVoUAtskGyHw/CC5zVNBAm3jyuo=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CLlzJVPP60q+jay45qZPaI21P78=
+			FeQzanpLn8r0q90XPcUQUGrbvpM=
 			</data>
 			<key>hash2</key>
 			<data>
-			/CCA16TifVoMMd2Pz9Z4f1yPeWea1qK7bOIEe9QBARk=
+			9vqiFoTW/zYeS6mZ80D6PlnQpuMgrIjcU/+646FQOZc=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VZgtEOZpsZxDjJo8A8GTxLpFsQo=
+			mnFamF7Gc38H2o21RWTTfDURTgE=
 			</data>
 			<key>hash2</key>
 			<data>
-			fFg4sW3VK1HHYwB0lCBu2JHm/bIGWW+vulNfsRMLiFA=
+			LLjPiY/OCkprLw8wapFjBaET7cMNKbOtVipQPYHElfg=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SyAYVgRmx940eyWG0JxckOZ+pnA=
+			C8aofSExOxn2EKBH+rg+owyDMlg=
 			</data>
 			<key>hash2</key>
 			<data>
-			M4STFcvl0i1qCO9VlrdTHaKsFSOPKf9HcvcnxkGWSPo=
+			kNS2UvbYCcdm7tSxK/+/hS0M8iwsjKI2THYlE7m5EtA=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3HZL4U2gXggMrEviLO1NjfJ54sU=
+			fsC9PZtjJRoRqtbec7KVYWkmuKc=
 			</data>
 			<key>hash2</key>
 			<data>
-			tblKmYdfLXmty3AEXQaBqAY3mzyXUZBCRvF0cf23988=
+			6u3B4M2JgDUgiBTy1C4xTfFiSfGMEjMDK7+iRcoaZvc=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SyAYVgRmx940eyWG0JxckOZ+pnA=
+			C8aofSExOxn2EKBH+rg+owyDMlg=
 			</data>
 			<key>hash2</key>
 			<data>
-			M4STFcvl0i1qCO9VlrdTHaKsFSOPKf9HcvcnxkGWSPo=
+			kNS2UvbYCcdm7tSxK/+/hS0M8iwsjKI2THYlE7m5EtA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -2472,11 +2538,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/Phke95B5PiKmNU2yXL8r0HCp/Q=
+			e7MqrXgFKVo5L1GdLOdUWvBVRww=
 			</data>
 			<key>hash2</key>
 			<data>
-			KaDdEeuXZurbC2KTlfAaC0P+QFxGJXD4y1WwXNAvRMU=
+			B7Hmpw5YJQkyyBpI1tSrMykio4/TnudqUfVhYiWhHLU=
 			</data>
 		</dict>
 		<key>Resources/PrivacyInfo.xcprivacy</key>
