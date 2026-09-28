@@ -516,7 +516,7 @@ public class LuaLoader implements JavaFunction {
 				Bundle appParams = new Bundle();
 				for(L.pushNil(); L.next(2); L.pop(1)){
 					String keyName =  L.toString(-2);
-					if(AppEventName.containsKey(keyName)){
+					if(AppEventParams.containsKey(keyName)){
 						keyName = AppEventParams.get(keyName);
 					}
 					appParams.putString(keyName, L.toString(-1));
@@ -531,7 +531,7 @@ public class LuaLoader implements JavaFunction {
 				Bundle appParams = new Bundle();
 				for(L.pushNil(); L.next(2); L.pop(1)){
 					String keyName =  L.toString(-2);
-					if(AppEventName.containsKey(keyName)){
+					if(AppEventParams.containsKey(keyName)){
 						keyName = AppEventParams.get(keyName);
 					}
 					appParams.putString(keyName, L.toString(-1));
